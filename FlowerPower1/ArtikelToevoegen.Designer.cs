@@ -307,7 +307,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label2);
             this.Name = "ArtikelToevoegen";
-            this.Text = "ArtikelToevoegen";
+            this.Text = "2";
             this.Load += new System.EventHandler(this.ArtikelToevoegen_Load);
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
